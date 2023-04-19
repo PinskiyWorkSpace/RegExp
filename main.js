@@ -59,9 +59,3 @@ const searchUrl = str => {
 
 searchUrl(str5);
 
-
-  const input = document.querySelector('.text');
-  
-  // input.addEventListener('input', () => {
-  //   input.value = input.value.replace(/[^А-Я]{10}/i, '');
-  // });
